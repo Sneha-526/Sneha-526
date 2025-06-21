@@ -9,7 +9,8 @@
 <div align="left">
   
 - 🌱 I’m currently learning **GOLang, Angular, Next.js, MySQL**  
-- 📫 How to reach me **snehapandit526@gmail.com**  
+- 📫 How to reach me **snehapandit526@gmail.com** 
+- 🚀 Checkout my portfolio **https://sneha-portfolio-showcase.web.app/**
 
 </div>
 
@@ -76,4 +77,6 @@
   </tbody>
 </table>
 <br>
+
+<img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-7d00-61f8-b9d0-2d91ca99998a/raw?se=2025-06-21T14%3A44%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=c7c050bd-a0b2-58dc-9ac5-38c71b258ae0&skoid=ec8eb293-a61a-47e0-abd0-6051cc94b050&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-21T12%3A17%3A05Z&ske=2025-06-22T12%3A17%3A05Z&sks=b&skv=2024-08-04&sig=dJMe6I/ILisIARiuKjOwx%2BS8gxm6CYwOEPEuxPRxr0Q%3D">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
